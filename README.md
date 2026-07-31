@@ -10,8 +10,8 @@
 
 ### 🔗 Project Links
 
-- 🌐 **Live Dashboard:** [Tomato Leaf Disease Classification](https://YOUR-APP-NAME.streamlit.app/)
-- 📦 **GitHub Repository:** [Tomato Leaf Disease Classification](https://github.com/YOUR_USERNAME/tomato-leaf-disease-classification)
+- 🌐 **Live Dashboard:** [Tomato Leaf Disease Classification](https://tomato-leaf-classifier.streamlit.app/)
+- 📦 **GitHub Repository:** [Tomato Leaf Disease Classification](https://github.com/azzhrdania/tomato-leaf-disease-classification)
 
 ---
 
