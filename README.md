@@ -8,6 +8,11 @@
 
 > **End-to-End Deep Learning Project** untuk mengklasifikasikan penyakit pada daun tomat menggunakan model **MobileNetV2** serta memberikan interpretasi hasil prediksi menggunakan **Explainable Artificial Intelligence (XAI) dengan Grad-CAM**.
 
+### 🔗 Project Links
+
+- 🌐 **Live Dashboard:** [Tomato Leaf Disease Classification](https://YOUR-APP-NAME.streamlit.app/)
+- 📦 **GitHub Repository:** [Tomato Leaf Disease Classification](https://github.com/YOUR_USERNAME/tomato-leaf-disease-classification)
+
 ---
 
 ## 🎯 Tujuan Proyek
