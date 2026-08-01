@@ -273,7 +273,7 @@ def preprocess(pil_img):
 # =============================================================================
 # Prediction Confidence Threshold
 # =============================================================================
-CONFIDENCE_THRESHOLD = 0.80
+CONFIDENCE_THRESHOLD = 0.85
 
 def evaluate_prediction_confidence(model, img_array):
     pred = model.predict(img_array, verbose=0)[0]
